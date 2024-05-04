@@ -8,8 +8,8 @@ Para utilizar la biblioteca `libft`, sigue estos pasos:
 ```C
 #include "libft/libft.h"
 ```
-## Uso
+3.  **Para obtener el libft.a tienes que ejecutar los siguientes comandos:**
 
-``make`` sin el bonus
+    ``make`` sin el bonus
 
-``make bonus`` incluyendo los bonos
+    ``make bonus`` incluyendo el bonus
